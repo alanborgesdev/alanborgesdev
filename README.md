@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Alan Borges 😁
 
  <div>
-   <a href="https://github.com/alanborgesdev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanborgesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanborgesdev&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/alanborges">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanborges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanborges&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
