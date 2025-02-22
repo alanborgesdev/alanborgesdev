@@ -1,4 +1,4 @@
-# 👋 Bem-vindo ao perfil Alan Borges!  
+# 👋 Bem-vindo ao perfil do Alan Borges!  
 
 ### 🚀 Sobre mim  
 💻 Desenvolvedor **Front-end** em transição de carreira, apaixonado por tecnologia e sempre aprendendo algo novo!  
