@@ -2,7 +2,7 @@
 
 ### 🚀 Sobre mim  
 💻 Desenvolvedor **Front-end** em transição de carreira, apaixonado por tecnologia e sempre aprendendo algo novo!  
-🎯 Buscando aprimorar minhas habilidades em **JavaScript, HTML e CSS** para construir experiências web incríveis.  
+🎯 Buscando aprimorar minhas habilidades em **HTML, CSS, Javascript e React** para construir experiências web incríveis.  
 
 ---
 
