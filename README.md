@@ -6,7 +6,7 @@
 
 ---
 
-## 📊 Estatísticas  
+## 📌 Desempenho no GitHub 
 
 <div>
   <a href="https://github.com/alanborgesdev">
