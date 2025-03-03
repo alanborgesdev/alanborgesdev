@@ -1,6 +1,7 @@
 # 👋 Bem-vindo ao perfil do Alan Borges!
 
-## 🚀 Sobre mim  
+## 🚀 Sobre mim
+
 💻 **Desenvolvedor Front-end** em transição de carreira, buscando aprimorar minhas habilidades e criar experiências web incríveis!  
 📚 Focado em **HTML | CSS | JavaScript | React**  
 🌍 Sempre em busca de inovação para criar soluções impactantes! 
@@ -29,7 +30,7 @@
 
 ---
 
-## 🌟 Projetos em Destaque
+## 📌 Projetos em Destaque
 
 🔹 **[Project GTA](https://alanborgesdev.github.io/project-gta/)** – Um projeto interativo inspirado no universo GTA, desenvolvido para aprimorar habilidades em **HTML, CSS e JavaScript**.  
 🔹 **[Landing Page com Grid](https://alanborgesdev.github.io/projeto-landinpage-page-com-grid/)** – Uma landing page moderna e responsiva utilizando **CSS Grid** para organização e layout.  
