@@ -7,7 +7,8 @@
 ## 🎯 Sobre mim
 
 💻 **Desenvolvedor Front-end** em transição de carreira, buscando aprimorar minhas habilidades e criar experiências web incríveis!
-📚 Focado em **HTML | CSS | JavaScript | React** 🌍 Sempre em busca de inovação para criar soluções impactantes!
+📚 Focado em **HTML | CSS | JavaScript | React**
+🌍 Sempre em busca de inovação para criar soluções impactantes!
 
 ---
 
