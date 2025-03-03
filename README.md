@@ -69,10 +69,14 @@
 
 ## 📂 Projetos em Destaque  
 
-🔹 **[Project GTA](https://alanborgesdev.github.io/project-gta/)** – Um projeto interativo inspirado no universo GTA, desenvolvido para aprimorar habilidades em **HTML, CSS e JavaScript**.  
-🔹 **[Landing Page com Grid](https://alanborgesdev.github.io/projeto-landinpage-page-com-grid/)** – Uma landing page moderna e responsiva utilizando **CSS Grid** para organização e layout.
-🔹 **[API Fetch GitHub](https://alanborgesdev.github.io/api-fetch-github/)** – Um projeto que consome a API do GitHub para exibir informações de repositórios, destacando habilidades com **fetch API e JavaScript assíncrono**.
+🔹 **[Project GTA](https://alanborgesdev.github.io/project-gta/)**  
+Um projeto interativo inspirado no universo GTA, desenvolvido para aprimorar habilidades em **HTML, CSS e JavaScript**.  
 
+🔹 **[Landing Page com Grid](https://alanborgesdev.github.io/projeto-landinpage-page-com-grid/)**  
+Uma landing page moderna e responsiva utilizando **CSS Grid** para organização e layout.  
+
+🔹 **[API Fetch GitHub](https://alanborgesdev.github.io/api-fetch-github/)**  
+Um projeto que consome a API do GitHub para exibir informações de repositórios, destacando habilidades com **fetch API e JavaScript assíncrono**.  
 
 ---
 
