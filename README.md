@@ -1,14 +1,13 @@
-# 👋 Bem-vindo ao perfil do Alan Borges!  
+# 👋 Bem-vindo ao perfil do Alan Borges!
 
-### 🚀 Sobre mim  
-
-💻 **Desenvolvedor Front-end** em transição de carreira, buscando aprimorar minhas habilidades e criar experiências web incríveis!  
-📚 Focado em **HTML | CSS | JavaScript | React**  
-🌍 Sempre em busca de inovação para criar soluções impactantes!  
+## 🚀 Sobre mim
+💻 **Desenvolvedor Front-end** em transição de carreira, buscando aprimorar minhas habilidades e criar experiências web incríveis!
+📚 Focado em **HTML | CSS | JavaScript | React**
+🌍 Sempre em busca de inovação para criar soluções impactantes!
 
 ---
 
-## 📌 Desempenho no GitHub  
+## 📌 Desempenho no GitHub
 
 <div align="center">
   <a href="https://github.com/alanborgesdev">
@@ -19,32 +18,26 @@
 
 ---
 
-## 🖥️ Habilidades Técnicas  
+## 🖥️ Habilidades Técnicas
 
 <div style="display: inline_block"><br>
-   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </div>
-</div>
 
 ---
 
-## 📂 Projetos em Destaque  
+## 🌟 Projetos em Destaque
 
-🔹 **[Project GTA](https://alanborgesdev.github.io/project-gta/)**  
-Um projeto interativo inspirado no universo GTA, desenvolvido para aprimorar habilidades em **HTML, CSS e JavaScript**.  
-
-🔹 **[Landing Page com Grid](https://alanborgesdev.github.io/projeto-landinpage-page-com-grid/)**  
-Uma landing page moderna e responsiva utilizando **CSS Grid** para organização e layout.  
-
-🔹 **[API Fetch GitHub](https://alanborgesdev.github.io/api-fetch-github/)**  
-Um projeto que consome a API do GitHub para exibir informações de repositórios, destacando habilidades com **fetch API e JavaScript assíncrono**.  
+🔹 **[Project GTA](https://alanborgesdev.github.io/project-gta/)** – Um projeto interativo inspirado no universo GTA, desenvolvido para aprimorar habilidades em **HTML, CSS e JavaScript**.  
+🔹 **[Landing Page com Grid](https://alanborgesdev.github.io/projeto-landinpage-page-com-grid/)** – Uma landing page moderna e responsiva utilizando **CSS Grid** para organização e layout.  
+🔹 **[API Fetch GitHub](https://alanborgesdev.github.io/api-fetch-github/)** – Um projeto que consome a API do GitHub para exibir informações de repositórios, destacando habilidades com **fetch API e JavaScript assíncrono**.  
 
 ---
 
-## 📬 Como me encontrar  
+## 📬 Como me encontrar
 
 <div align="left">
   <a href="mailto:alanborges05@gmail.com">
