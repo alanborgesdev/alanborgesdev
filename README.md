@@ -18,7 +18,7 @@
 💡 Landing page inspirada no universo GTA.  
 📱 Design responsivo, com fontes personalizadas e estilo retrô.
 
-### 🧩 Pokédex React App
+### 🧩 Pokedex React
 🔗 [Acesse o projeto](https://pokedex-ecru-seven.vercel.app/)   
 🛠️ **React | Styled Components | React Router | Context API**  
 💡 Uma aplicação de Pokédex que consome a PokeAPI para exibir informações sobre Pokémon.  
