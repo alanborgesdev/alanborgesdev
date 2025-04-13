@@ -13,10 +13,10 @@
 ## 💼 Projetos em Destaque
 
 ### 🎮 Landing Page - GTA Nostalgia  
-🔗 [Acesse o projeto](https://alan-borges.github.io/project-gta/)  
+🔗 [Acesse o projeto](https://alanborgesdev.github.io/gta-landing-page/)  
 🛠️ **HTML | CSS | JavaScript**  
-💡 Landing page com visual retrô inspirado no universo dos games.  
-📱 Responsivo e com animações suaves para uma navegação fluida.
+💡 Landing page inspirada no universo GTA.
+📱 Desenvolvida com HTML, CSS e JavaScript, com design responsivo e fontes personalizadas.
 
 ---
 
