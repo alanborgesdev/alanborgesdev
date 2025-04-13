@@ -1,5 +1,6 @@
-# 👋 Olá! Eu sou Alan Borges
+# 👋 Olá! Eu sou o Alan Borges  
 ### 💻 Desenvolvedor Front-end focado em criar interfaces web modernas e funcionais.
+
 
 ## 🚀 Sobre mim
 
