@@ -1,4 +1,4 @@
-# 👋 Bem-vindo ao perfil do Alan Borges!
+# 👋 Olá! Eu sou Alan Borges
 
 ## 🚀 Sobre mim
 
