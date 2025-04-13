@@ -18,6 +18,12 @@
 💡 Landing page inspirada no universo GTA.  
 📱 Design responsivo, com fontes personalizadas e estilo retrô.
 
+### 🧩 Pokédex React App  
+🔗 [Repositório no GitHub](https://github.com/alanborgesdev/quest-react-base)  
+🛠️ **React | Styled Components | React Router | Context API**  
+💡 Uma aplicação de Pokédex que consome a PokeAPI para exibir informações sobre Pokémon.  
+🌗 Suporte a temas claro/escuro, cache inteligente, responsividade e páginas de detalhes.
+
 ---
 
 ## 📌 Desempenho no GitHub
