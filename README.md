@@ -12,13 +12,12 @@
 
 ## 💼 Projetos em Destaque
 
-### 🎮 [Projeto GTA | Landing Page](https://alanborgesdev.github.io/gta-landing-page)
+### 🔗[Projeto GTA | Landing Page](https://alanborgesdev.github.io/gta-landing-page)
  🛠️ **HTML | CSS | JavaScript**  
  💡 Landing page inspirada no universo GTA.  
  📱 Design responsivo, com fontes personalizadas e estilo retrô.
 
-### 🧩 Pokedex React
-🔗 [Acesse o projeto](https://pokedex-ecru-seven.vercel.app/)   
+### 🔗[Pokedex React](https://pokedex-ecru-seven.vercel.app/)   
 🛠️ **React | Styled Components | React Router | Context API**  
 💡 Uma aplicação de Pokédex que consome a PokeAPI para exibir informações sobre Pokémon.  
 🌗 Suporte a temas claro/escuro, cache inteligente, responsividade e páginas de detalhes.
