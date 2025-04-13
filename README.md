@@ -18,6 +18,12 @@
 💡 Landing page inspirada no universo GTA.
 📱 Desenvolvida com HTML, CSS e JavaScript, com design responsivo e fontes personalizadas.
 
+### 🎮 Projeto GTA - Landing Page  
+🔗 [Acesse o projeto](https://alanborgesdev.github.io/gta-landing-page/)  
+🛠️ **HTML | CSS | JavaScript**  
+💡 Landing page inspirada no universo GTA.
+📱 Desenvolvida com HTML, CSS e JavaScript, com design responsivo e fontes personalizadas.
+
 ---
 
 ## 📌 Desempenho no GitHub
