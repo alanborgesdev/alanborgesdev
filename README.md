@@ -1,12 +1,12 @@
 # 👋 Olá! Eu sou o Alan Borges  
 ### 💻 Desenvolvedor Front-end focado em criar interfaces web modernas e funcionais.
 
-
 ## 🚀 Sobre mim
 
-💻 **Desenvolvedor Front-end** em transição de carreira, buscando aprimorar minhas habilidades e criar experiências web incríveis!  
-📚 Focado em **HTML | CSS | JavaScript | React**  
-🌍 Sempre em busca de inovação para criar soluções impactantes! 
+💻 Desenvolvedor Front-end em transição de carreira, com formação técnica e sólida experiência em lógica e resolução de problemas.  
+🎯 Foco em desenvolvimento de interfaces web responsivas utilizando **HTML, CSS, JavaScript e React**.  
+🌱 Estudando continuamente boas práticas, componentização e consumo de APIs REST.  
+🚀 Buscando oportunidades para contribuir com projetos reais, aprender em equipe e crescer na área tech.
 
 ---
 
