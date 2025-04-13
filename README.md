@@ -10,6 +10,16 @@
 
 ---
 
+## 💼 Projetos em Destaque
+
+### 🎮 Landing Page - GTA Nostalgia  
+🔗 [Acesse o projeto](https://alan-borges.github.io/project-gta/)  
+🛠️ **HTML | CSS | JavaScript**  
+💡 Landing page com visual retrô inspirado no universo dos games.  
+📱 Responsivo e com animações suaves para uma navegação fluida.
+
+---
+
 ## 📌 Desempenho no GitHub
 
 <div align="center">
@@ -44,5 +54,4 @@
   <a href="https://instagram.com/alanborges.dev" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
 </div>
