@@ -12,7 +12,7 @@
 
 ## 💼 Projetos em Destaque
 
-### 🎮 Projeto GTA - Landing Page   
+### 🎮 Projeto GTA | Landing Page   
 🔗 [Acesse o projeto](https://alanborgesdev.github.io/gta-landing-page/)  
 🛠️ **HTML | CSS | JavaScript**  
 💡 Landing page inspirada no universo GTA.  
