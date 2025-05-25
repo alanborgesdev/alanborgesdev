@@ -26,6 +26,12 @@
 🌗 Suporte a temas claro/escuro, cache inteligente, responsividade e páginas de detalhes.  
 📂 [Ver repositório](https://github.com/alanborgesdev/pokedex)
 
+### 🔗 [Formulário Newsletter](https://formulario-newsletter-phi.vercel.app/)   
+🛠️ **React | TypeScript | Tailwind CSS | Vite**  
+💡 Aplicação de formulário com validação de campos (nome, e-mail e termos de uso) antes do envio. 
+✅ Validação em tempo real, usabilidade aprimorada e layout responsivo.
+📂 [Ver repositório](https://github.com/alanborgesdev/formulario-newsletter)
+
 ---
 
 ## 📈 Desempenho no GitHub
