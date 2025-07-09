@@ -18,19 +18,36 @@
 🛠️ **HTML | CSS | JavaScript**  
 💡 Landing page inspirada no universo GTA.  
 📱 Design responsivo, com fontes personalizadas e estilo retrô.  
-📂 [Ver repositório](https://github.com/alanborgesdev/gta-landing-page)
+📂 [Ver repositório](https://github.com/alanborgesdev/gta-landing-page)  
+
+![Last Commit](https://img.shields.io/github/last-commit/alanborgesdev/gta-landing-page)
+![Repo Size](https://img.shields.io/github/repo-size/alanborgesdev/gta-landing-page)
+![License](https://img.shields.io/github/license/alanborgesdev/gta-landing-page)
+
+---
 
 ### 🔗 [Pokédex React](https://pokedex-ecru-seven.vercel.app/)   
 🛠️ **React | Styled Components | React Router | Context API**  
 💡 Aplicação que consome a PokéAPI para exibir informações sobre Pokémon.  
 🌗 Suporte a temas claro/escuro, cache inteligente, responsividade e páginas de detalhes.  
-📂 [Ver repositório](https://github.com/alanborgesdev/pokedex)
+📂 [Ver repositório](https://github.com/alanborgesdev/pokedex)  
+
+![Last Commit](https://img.shields.io/github/last-commit/alanborgesdev/pokedex)
+![Repo Size](https://img.shields.io/github/repo-size/alanborgesdev/pokedex)
+![Issues](https://img.shields.io/github/issues/alanborgesdev/pokedex)
+![License](https://img.shields.io/github/license/alanborgesdev/pokedex)
+
+---
 
 ### 🔗 [Formulário Newsletter](https://formulario-newsletter-phi.vercel.app/)   
 🛠️ **React | TypeScript | Tailwind CSS | Vite**  
 💡 Aplicação de formulário com validação de campos (nome, e-mail e termos de uso) antes do envio.  
 ✅ Validação em tempo real, usabilidade aprimorada e layout responsivo.  
-📂 [Ver repositório](https://github.com/alanborgesdev/formulario-newsletter).
+📂 [Ver repositório](https://github.com/alanborgesdev/formulario-newsletter)  
+
+![Last Commit](https://img.shields.io/github/last-commit/alanborgesdev/formulario-newsletter)
+![Repo Size](https://img.shields.io/github/repo-size/alanborgesdev/formulario-newsletter)
+![License](https://img.shields.io/github/license/alanborgesdev/formulario-newsletter)
 
 ---
 
