@@ -22,7 +22,7 @@
 
 ![Last Commit](https://img.shields.io/github/last-commit/alanborgesdev/gta-landing-page)
 ![Repo Size](https://img.shields.io/github/repo-size/alanborgesdev/gta-landing-page)
-![License](https://img.shields.io/github/license/alanborgesdev/gta-landing-page?cache_bust=1)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
 
