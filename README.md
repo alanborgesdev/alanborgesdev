@@ -35,7 +35,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/alanborgesdev/pokedex)
 ![Repo Size](https://img.shields.io/github/repo-size/alanborgesdev/pokedex)
 ![Issues](https://img.shields.io/github/issues/alanborgesdev/pokedex)
-![License](https://img.shields.io/github/license/alanborgesdev/pokedex)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
 
@@ -47,7 +47,7 @@
 
 ![Last Commit](https://img.shields.io/github/last-commit/alanborgesdev/formulario-newsletter)
 ![Repo Size](https://img.shields.io/github/repo-size/alanborgesdev/formulario-newsletter)
-![License](https://img.shields.io/github/license/alanborgesdev/formulario-newsletter)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
 
