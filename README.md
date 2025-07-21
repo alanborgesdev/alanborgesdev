@@ -43,8 +43,8 @@ Sou um desenvolvedor apaixonado por transformar ideias em experiências digitais
 ---
 
 ### 🔗 [Pet Shop Dev | Landing Page](https://petdev-landing-nextjs.vercel.app/)
-🛠️ **Next.js | React | TypeScript | Tailwind CSS**
-*Landing page moderna e responsiva para um petshop fictício, construída com foco em performance e boas práticas de SEO.*
+🛠️ **Next.js | React | TypeScript | Tailwind CSS**  
+*Landing page moderna e responsiva para um petshop fictício, construída com foco em performance e boas práticas de SEO.*  
 📂 [Ver repositório](https://github.com/alanborgesdev/petdev-landing-nextjs) 
 
 ---
