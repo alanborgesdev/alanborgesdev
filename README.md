@@ -1,11 +1,11 @@
 # 👋 Olá, eu sou o Alan Borges
-### Desenvolvedor Front-end | React | TypeScript | Tailwind CSS
+### Full Stack Developer | Node.js • React • TypeScript
 
-Sou um desenvolvedor apaixonado por transformar ideias em experiências digitais interativas. Meu foco é criar aplicações web responsivas e performáticas, sempre buscando aplicar as melhores práticas de componentização, arquitetura e consumo de APIs.
+Desenvolvedor focado em construir soluções web completas, desde a API REST no back-end até a interface interativa no front-end. Apaixonado por código limpo, performance e por criar produtos digitais que resolvem problemas reais.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,git,github,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,prisma,postgresql,docker,git,github,vscode" />
   </a>
 </p>
 
@@ -13,9 +13,9 @@ Sou um desenvolvedor apaixonado por transformar ideias em experiências digitais
 
 ## 🚀 Sobre Mim
 
-- Apaixonado por tecnologia, utilizo minha sólida base em lógica para desenvolver soluções web intuitivas e eficientes.
-- Focado no ecossistema **React**, utilizando **TypeScript** para criar componentes robustos e **Tailwind CSS** para estilizações modernas.
-- Estou em busca da minha primeira oportunidade para colaborar com uma equipe, entregar valor e acelerar meu crescimento profissional.
+- Desenvolvedor focado em construir soluções web completas, do back-end ao front-end.
+- Especializado em criar **APIs RESTful** com **Node.js** e **Prisma**, e desenvolver interfaces interativas com **React**, **TypeScript** e **Tailwind CSS**.
+- Buscando minha primeira oportunidade para integrar uma equipe, contribuir com projetos desafiadores e acelerar meu crescimento profissional.
 
 ---
 
