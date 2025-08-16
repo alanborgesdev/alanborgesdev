@@ -21,10 +21,10 @@ Desenvolvedor focado em construir soluções web completas, desde a API REST no 
 
 ## 💼 Projetos em Destaque
 
-### 🔗 [Projeto GTA | Landing Page](https://alanborgesdev.github.io/gta-landing-page)
-🛠️ **HTML | CSS | JavaScript**  
-*Landing page inspirada no universo GTA, com design responsivo, fontes personalizadas e estilo retrô.*  
-📂 [Ver repositório](https://github.com/alanborgesdev/gta-landing-page)
+### 🔗 [MovieFlix API](https://github.com/alanborgesdev/movieflix-api)
+🛠️ **Node.js | TypeScript | Prisma | Docker | Swagger**  
+*API RESTful para gerenciamento de filmes, com documentação interativa via Swagger e pronta para deploy com Docker.*  
+📂 [Ver repositório](https://github.com/alanborgesdev/movieflix-api)
 
 ---
 
