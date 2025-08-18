@@ -5,7 +5,7 @@ Desenvolvedor focado em construir soluções web completas, desde a API REST no 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,prisma,postgresql,docker,git,github,vscode" />
+   <img src="https://skillicons.dev/icons?i=react,nodejs,express,ts,prisma,postgresql,tailwind,docker,git,github" />
   </a>
 </p>
 
