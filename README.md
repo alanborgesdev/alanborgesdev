@@ -21,6 +21,11 @@ Desenvolvedor focado em construir soluções web completas, desde a API REST no 
 
 ## 💼 Projetos em Destaque
 
+### 🔗 [BotFlix](https://alanborgesdev.github.io/botflix-n8n/)
+🛠️ **HTML | CSS | JavaScript | n8n.io | TMDB API**  
+*Assistente pessoal que recomenda filmes com base no humor do usuário, utilizando um workflow automatizado com n8n.io.* 
+📂 [Ver repositório](https://github.com/alanborgesdev/botflix-n8n)
+
 ### 🔗 [MovieFlix API](https://github.com/alanborgesdev/movieflix-api)
 🛠️ **Node.js | TypeScript | Prisma | Docker | Swagger**  
 *API RESTful para gerenciamento de filmes, com documentação interativa via Swagger e pronta para deploy com Docker.*  
