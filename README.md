@@ -73,19 +73,19 @@ Aplicação interativa que consome a PokéAPI, com busca avançada, tema dark/li
 
 ---
 
-### 📧 [Newsletter Form](https://newsletter-form-demo.vercel.app)
+### 📧 [Newsletter Form](https://alanborgesdev-newsletter.vercel.app)
 Formulário de newsletter com validação em tempo real, feedback visual e design moderno. Foco em acessibilidade e experiência do usuário.
 
 **Tech:** `React` `TypeScript` `Tailwind CSS` `Vite`  
-🌐 [Ver demo](https://newsletter-form-demo.vercel.app) | 📂 [Código](https://github.com/seu-usuario/newsletter-form)
+🌐 [Ver demo](https://alanborgesdev-newsletter.vercel.app) | 📂 [Código](https://github.com/alanborgesdev/formulario-newsletter)
 
 ---
 
-### 🐾 [Pet Shop Dev - Landing Page](https://petshop-dev.vercel.app)
+### 🐾 [Pet Shop Dev - Landing Page](https://alanborgesdev-petdev.vercel.app)
 Landing page responsiva e otimizada para SEO, criada para um pet shop fictício. Design limpo com foco em conversão e performance.
 
 **Tech:** `Next.js` `React` `Tailwind CSS`  
-🌐 [Ver demo](https://petshop-dev.vercel.app) | 📂 [Código](https://github.com/seu-usuario/petshop-landing)
+🌐 [Ver demo](https://alanborgesdev-petdev.vercel.app) | 📂 [Código](https://github.com/alanborgesdev/petdev-landing-nextjs)
 
 ---
 
