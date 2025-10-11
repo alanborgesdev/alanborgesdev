@@ -16,7 +16,7 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor Full Stack com foco em criar experiências web completas e funcionais. Minha jornada na programação começou com a curiosidade de entender como as coisas funcionam por trás das telas — e hoje, construo desde APIs REST robustas até interfaces modernas e responsivas.
+Desenvolvedor Full Stack com foco em criar experiências web completas e funcionais. Minha jornada na programação começou com a curiosidade de entender o que acontecia por trás das telas — e hoje, transformo essa curiosidade em soluções completas: de APIs REST robustas a interfaces modernas e responsivas.
 
 Acredito que código limpo não é apenas uma boa prática, mas uma forma de respeito com quem vai ler e manter o projeto no futuro. Sou movido por desafios que exigem pensar em arquitetura, performance e experiência do usuário ao mesmo tempo.
 
