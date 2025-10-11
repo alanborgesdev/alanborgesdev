@@ -26,7 +26,7 @@ Acredito que código limpo não é apenas uma boa prática, mas uma forma de res
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Stack
 
 <div align="center">
 
@@ -57,19 +57,19 @@ Assistente inteligente que recomenda filmes personalizados com base no humor do 
 
 ---
 
-### 🎥 [MovieFlix API](https://github.com/seu-usuario/movieflix-api)
+### 🎥 [MovieFlix API](https://github.com/alanborgesdev/movieflix-api)
 API RESTful completa para gerenciamento de filmes com autenticação, validação de dados e documentação automática via Swagger. Containerizada com Docker para facilitar deploy e desenvolvimento.
 
 **Tech:** `Node.js` `TypeScript` `Express` `Prisma` `PostgreSQL` `Docker` `Swagger`  
-📂 [Ver repositório](https://github.com/seu-usuario/movieflix-api)
+📂 [Código](https://github.com/alanborgesdev/movieflix-api)
 
 ---
 
-### ⚡ [Pokédex React](https://pokedex-demo.vercel.app)
+### ⚡ [Pokédex React](https://alanborgesdev-pokedex.vercel.app)
 Aplicação interativa que consome a PokéAPI, com busca avançada, tema dark/light dinâmico e animações suaves. Exploração de Context API para gerenciamento de estado global.
 
 **Tech:** `React` `Styled Components` `Context API` `PokéAPI`  
-🌐 [Ver demo](https://pokedex-demo.vercel.app) | 📂 [Código](https://github.com/seu-usuario/pokedex-react)
+🌐 [Ver demo](https://alanborgesdev-pokedex.vercel.app) | 📂 [Código](https://github.com/alanborgesdev/pokedex)
 
 ---
 
