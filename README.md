@@ -37,7 +37,7 @@ Acredito que código limpo não é apenas uma boa prática, mas uma forma de res
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n.io-EA4C89?style=flat&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n.io-FF6B6B?style=flat&logo=n8n&logoColor=white"/>
 </p>
 
 ---
