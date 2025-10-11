@@ -1,10 +1,9 @@
-# Olá, sou Alan Borges! 👋
-
 <div align="center">
-  
-### Full Stack Developer | Node.js • React • TypeScript
 
-*Transformando ideias em soluções digitais completas*
+# 👋 Olá, sou **Alan Borges!**
+
+### 💻 Full Stack Developer | Node.js • React • TypeScript  
+*Transformando ideias em soluções digitais completas.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alanborgesdev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanborgesdev0@gmail.com)
