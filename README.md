@@ -92,10 +92,11 @@ Landing page responsiva e otimizada para SEO, criada para um pet shop fictício.
 ## 📈 Estatísticas & Linguagens
 
 <div align="center">
-  
-![Alan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alanborgesdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alanborgesdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<a href="https://github.com/alanborgesdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanborgesdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanborgesdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</a>
 
 </div>
 
