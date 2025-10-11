@@ -6,9 +6,9 @@
 
 *Transformando ideias em soluções digitais completas*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alanborgesdev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanborgesde0@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alanborges.dev)
 
 </div>
 
@@ -129,9 +129,9 @@ Landing page responsiva e otimizada para SEO, criada para um pet shop fictício.
 
 Estou sempre aberto a conversas sobre tecnologia, oportunidades e colaborações!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos_conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Gmail](https://img.shields.io/badge/Gmail-Entre_em_contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Me_siga-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos_conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alanborgesdev)
+[![Gmail](https://img.shields.io/badge/Gmail-Entre_em_contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanborgesdev0@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Me_siga-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alanborges.dev)
 
 </div>
 
