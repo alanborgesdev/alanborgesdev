@@ -101,6 +101,8 @@ Acredito que código limpo não é apenas uma boa prática, mas uma forma de res
 
 ## 📈 Estatísticas & Linguagens
 
+Curioso para ver minha evolução? Aqui estão algumas métricas do meu perfil no GitHub 👇
+
 <div align="center">
 
 <a href="https://github.com/alanborgesdev">
