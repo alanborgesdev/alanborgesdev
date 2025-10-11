@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alanborgesdev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanborgesdev0@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alanborges.dev)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://alanborgesdev.vercel.app)
 
 </div>
 
@@ -26,24 +26,19 @@ Acredito que código limpo não é apenas uma boa prática, mas uma forma de res
 
 ---
 
-## 🛠️ Stack
+### 🧰 Stack Principal
 
-<div align="center">
-
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![React](https://skillicons.dev/icons?i=react)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
-![Prisma](https://skillicons.dev/icons?i=prisma)
-![Docker](https://skillicons.dev/icons?i=docker)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n.io-EA4C89?style=flat&logo=n8n&logoColor=white"/>
+</p>
 
 ---
 
@@ -144,7 +139,7 @@ Estou sempre aberto a conversas sobre tecnologia, oportunidades e colaborações
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos_conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alanborgesdev)
 [![Gmail](https://img.shields.io/badge/Gmail-Entre_em_contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanborgesdev0@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Me_siga-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alanborges.dev)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Acesse-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://alanborgesdev.vercel.app)
 
 </div>
 
