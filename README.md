@@ -49,11 +49,11 @@ Acredito que código limpo não é apenas uma boa prática, mas uma forma de res
 
 ## 💼 Projetos em Destaque
 
-### 🎬 [BotFlix](https://botflix-n8n.vercel.app)
+### 🎬 [BotFlix](https://alanborgesdev.github.io/botflix-n8n)
 Assistente inteligente que recomenda filmes personalizados com base no humor do usuário. Integração com TMDB API e automação via n8n.io para criar uma experiência interativa e divertida.
 
 **Tech:** `HTML` `CSS` `JavaScript` `n8n.io` `TMDB API`  
-📂 [Ver código](https://github.com/seu-usuario/botflix)
+🌐 [Ver demo](https://alanborgesdev.github.io/botflix-n8n) | 📂 [Código](https://github.com/alanborgesdev/botflix-n8n)
 
 ---
 
