@@ -47,6 +47,16 @@ Acredito que código limpo não é apenas uma boa prática, mas uma forma de res
 
 ---
 
+## 📚 Atualmente Explorando
+
+- ⚛️ **Desenvolvimento Full Stack com React, Node.js e TypeScript**
+- ⚙️ **Criação de APIs REST escaláveis com Express e Prisma**
+- 🔄 **Automação e integração de fluxos com n8n.io**
+- 🗃️ **Modelagem e consultas avançadas em PostgreSQL**
+- ☁️ **Integração e Deploy de aplicações completas**
+
+---
+
 ## 💼 Projetos em Destaque
 
 ### 🎬 [BotFlix](https://alanborgesdev.github.io/botflix-n8n)
