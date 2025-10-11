@@ -89,7 +89,7 @@ Landing page responsiva e otimizada para SEO, criada para um pet shop fictício.
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📈 Estatísticas & Linguagens
 
 <div align="center">
   
@@ -101,7 +101,7 @@ Landing page responsiva e otimizada para SEO, criada para um pet shop fictício.
 
 ---
 
-## 🎯 Atividade no GitHub
+## 🔥 Atividade Recente
 
 <div align="center">
 
