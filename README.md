@@ -1,90 +1,146 @@
-# 👋 Olá, eu sou o Alan Borges
+# Olá, sou Alan Borges! 👋
+
+<div align="center">
+  
 ### Full Stack Developer | Node.js • React • TypeScript
 
-Desenvolvedor focado em construir soluções web completas, desde a API REST no back-end até a interface interativa no front-end. Apaixonado por código limpo, performance e por criar produtos digitais que resolvem problemas reais.
+*Transformando ideias em soluções digitais completas*
 
-<p align="left">
-  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=react,nodejs,express,ts,prisma,postgresql,tailwind,docker,git,github" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-perfil)
+
+</div>
 
 ---
 
 ## 🚀 Sobre Mim
 
-- Desenvolvedor focado em construir soluções web completas, do back-end ao front-end.
-- Especializado em criar **APIs RESTful** com **Node.js** e **Prisma**, e desenvolver interfaces interativas com **React**, **TypeScript** e **Tailwind CSS**.
-- Buscando minha primeira oportunidade para integrar uma equipe, contribuir com projetos desafiadores e acelerar meu crescimento profissional.
+Desenvolvedor Full Stack com foco em criar experiências web completas e funcionais. Minha jornada na programação começou com a curiosidade de entender como as coisas funcionam por trás das telas — e hoje, construo desde APIs REST robustas até interfaces modernas e responsivas.
+
+Acredito que código limpo não é apenas uma boa prática, mas uma forma de respeito com quem vai ler e manter o projeto no futuro. Sou movido por desafios que exigem pensar em arquitetura, performance e experiência do usuário ao mesmo tempo.
+
+**Além do código:** Valorizo a comunicação clara em equipe, gosto de documentar processos e acredito que feedbacks construtivos são essenciais para crescimento coletivo. Tenho facilidade para trabalhar de forma colaborativa e adaptar-me rapidamente a novos contextos e tecnologias.
+
+**Momento atual:** Em busca da minha primeira oportunidade profissional para contribuir com soluções eficientes, aprender com times de alta performance e evoluir continuamente como desenvolvedor.
+
+---
+
+## 🛠️ Stack Tecnológica
+
+<div align="center">
+
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![React](https://skillicons.dev/icons?i=react)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![Prisma](https://skillicons.dev/icons?i=prisma)
+![Docker](https://skillicons.dev/icons?i=docker)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+
+</div>
 
 ---
 
 ## 💼 Projetos em Destaque
 
-### 🔗 [BotFlix](https://alanborgesdev.github.io/botflix-n8n/)
-🛠️ **HTML | CSS | JavaScript | n8n.io | TMDB API**  
-*Assistente pessoal que recomenda filmes com base no humor do usuário, utilizando um workflow automatizado com n8n.io.*  
-📂 [Ver repositório](https://github.com/alanborgesdev/botflix-n8n)
+### 🎬 [BotFlix](https://botflix-n8n.vercel.app)
+Assistente inteligente que recomenda filmes personalizados com base no humor do usuário. Integração com TMDB API e automação via n8n.io para criar uma experiência interativa e divertida.
+
+**Tech:** `HTML` `CSS` `JavaScript` `n8n.io` `TMDB API`  
+📂 [Ver código](https://github.com/seu-usuario/botflix)
 
 ---
 
-### 🔗 [MovieFlix API](https://github.com/alanborgesdev/movieflix-api)
-🛠️ **Node.js | TypeScript | Prisma | Docker | Swagger**  
-*API RESTful para gerenciamento de filmes, com documentação interativa via Swagger e pronta para deploy com Docker.*  
-📂 [Ver repositório](https://github.com/alanborgesdev/movieflix-api)
+### 🎥 [MovieFlix API](https://github.com/seu-usuario/movieflix-api)
+API RESTful completa para gerenciamento de filmes com autenticação, validação de dados e documentação automática via Swagger. Containerizada com Docker para facilitar deploy e desenvolvimento.
+
+**Tech:** `Node.js` `TypeScript` `Express` `Prisma` `PostgreSQL` `Docker` `Swagger`  
+📂 [Ver repositório](https://github.com/seu-usuario/movieflix-api)
 
 ---
 
-### 🔗 [Pokédex React](https://pokedex-ecru-seven.vercel.app/)   
-🛠️ **React | Styled Components | Context API**  
-*Aplicação que consome a PokéAPI para exibir informações sobre Pokémon, com suporte a temas claro/escuro e cache inteligente.*  
-📂 [Ver repositório](https://github.com/alanborgesdev/pokedex)  
+### ⚡ [Pokédex React](https://pokedex-demo.vercel.app)
+Aplicação interativa que consome a PokéAPI, com busca avançada, tema dark/light dinâmico e animações suaves. Exploração de Context API para gerenciamento de estado global.
+
+**Tech:** `React` `Styled Components` `Context API` `PokéAPI`  
+🌐 [Ver demo](https://pokedex-demo.vercel.app) | 📂 [Código](https://github.com/seu-usuario/pokedex-react)
 
 ---
 
-### 🔗 [Formulário Newsletter](https://formulario-newsletter-phi.vercel.app/)   
-🛠️ **React | TypeScript | Tailwind CSS | Vite**  
-*Aplicação de formulário com validação de campos em tempo real e feedback visual para o usuário.*  
-📂 [Ver repositório](https://github.com/alanborgesdev/formulario-newsletter)  
+### 📧 [Newsletter Form](https://newsletter-form-demo.vercel.app)
+Formulário de newsletter com validação em tempo real, feedback visual e design moderno. Foco em acessibilidade e experiência do usuário.
+
+**Tech:** `React` `TypeScript` `Tailwind CSS` `Vite`  
+🌐 [Ver demo](https://newsletter-form-demo.vercel.app) | 📂 [Código](https://github.com/seu-usuario/newsletter-form)
 
 ---
 
-### 🔗 [Pet Shop Dev | Landing Page](https://petdev-landing-nextjs.vercel.app/)
-🛠️ **Next.js | React | TypeScript | Tailwind CSS**  
-*Landing page moderna e responsiva para um petshop fictício, construída com foco em performance e boas práticas de SEO.*  
-📂 [Ver repositório](https://github.com/alanborgesdev/petdev-landing-nextjs) 
+### 🐾 [Pet Shop Dev - Landing Page](https://petshop-dev.vercel.app)
+Landing page responsiva e otimizada para SEO, criada para um pet shop fictício. Design limpo com foco em conversão e performance.
+
+**Tech:** `Next.js` `React` `Tailwind CSS`  
+🌐 [Ver demo](https://petshop-dev.vercel.app) | 📂 [Código](https://github.com/seu-usuario/petshop-landing)
 
 ---
 
-## 📈 Desempenho no GitHub
+## 📊 Estatísticas GitHub
 
 <div align="center">
-  <a href="https://github.com/alanborgesdev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanborgesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanborgesdev&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
+  
+![Alan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alanborgesdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alanborgesdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
 </div>
 
 ---
 
-## 📫 Conecte-se Comigo
+## 🎯 Atividade no GitHub
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alanborgesdev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:alanborgesdev0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://instagram.com/alanborges.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alanborgesdev&theme=tokyo-night&hide_border=true&area=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alanborgesdev&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
-</picture>
+## 🐍 Contribuições
+
+<div align="center">
+
+![Snake animation](https://github.com/alanborgesdev/alanborgesdev/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🌐 Conecte-se Comigo
+
+<div align="center">
+
+Estou sempre aberto a conversas sobre tecnologia, oportunidades e colaborações!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos_conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Gmail](https://img.shields.io/badge/Gmail-Entre_em_contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Me_siga-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-perfil)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💻 *"Transformando café em código, bugs em aprendizado"*
+
+![](https://komarev.com/ghpvc/?username=alanborgesdev&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil)
+
+</div>
