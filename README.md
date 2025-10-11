@@ -49,18 +49,18 @@ Acredito que código limpo não é apenas uma boa prática, mas uma forma de res
 
 ## 📚 Atualmente Explorando
 
-- ⚛️ **Desenvolvimento Full Stack com React, Node.js e TypeScript**
-- ⚙️ **Criação de APIs REST escaláveis com Express e Prisma**
-- 🔄 **Automação e integração de fluxos com n8n.io**
-- 🗃️ **Modelagem e consultas avançadas em PostgreSQL**
-- ☁️ **Integração e Deploy de aplicações completas**
+- ⚛️ **Aprofundando em desenvolvimento Full Stack com React, Node.js e TypeScript**
+- ⚙️ **Criando e escalando APIs REST com Express e Prisma**
+- 🔄 **Automatizando e integrando fluxos com n8n.io**
+- 🗃️ **Dominando modelagem e consultas em PostgreSQL**
+- ☁️ **Explorando deploys eficientes e integração de sistemas completos**
 
 ---
 
 ## 💼 Projetos em Destaque
 
 ### 🎬 [BotFlix](https://alanborgesdev.github.io/botflix-n8n)
-Assistente inteligente que recomenda filmes personalizados com base no humor do usuário. Integração com TMDB API e automação via n8n.io para criar uma experiência interativa e divertida.
+🤖 Assistente inteligente que recomenda filmes personalizados com base no humor do usuário. Integração com TMDB API e automação via n8n.io para criar uma experiência interativa e divertida.
 
 **Tech:** `HTML` `CSS` `JavaScript` `n8n.io` `TMDB API`  
 🌐 [Ver demo](https://alanborgesdev.github.io/botflix-n8n) | 📂 [Código](https://github.com/alanborgesdev/botflix-n8n)
@@ -68,7 +68,7 @@ Assistente inteligente que recomenda filmes personalizados com base no humor do 
 ---
 
 ### 🎥 [MovieFlix API](https://github.com/alanborgesdev/movieflix-api)
-API RESTful completa para gerenciamento de filmes com autenticação, validação de dados e documentação automática via Swagger. Containerizada com Docker para facilitar deploy e desenvolvimento.
+🚀 API RESTful completa para gerenciamento de filmes com autenticação, validação de dados e documentação automática via Swagger. Containerizada com Docker para facilitar deploy e desenvolvimento.
 
 **Tech:** `Node.js` `TypeScript` `Express` `Prisma` `PostgreSQL` `Docker` `Swagger`  
 📂 [Código](https://github.com/alanborgesdev/movieflix-api)
@@ -76,7 +76,7 @@ API RESTful completa para gerenciamento de filmes com autenticação, validaçã
 ---
 
 ### ⚡ [Pokédex React](https://alanborgesdev-pokedex.vercel.app)
-Aplicação interativa que consome a PokéAPI, com busca avançada, tema dark/light dinâmico e animações suaves. Exploração de Context API para gerenciamento de estado global.
+🎯 Aplicação interativa que consome a PokéAPI, com busca avançada, tema dark/light dinâmico e animações suaves. Exploração de Context API para gerenciamento de estado global.
 
 **Tech:** `React` `Styled Components` `Context API` `PokéAPI`  
 🌐 [Ver demo](https://alanborgesdev-pokedex.vercel.app) | 📂 [Código](https://github.com/alanborgesdev/pokedex)
@@ -84,7 +84,7 @@ Aplicação interativa que consome a PokéAPI, com busca avançada, tema dark/li
 ---
 
 ### 📧 [Newsletter Form](https://alanborgesdev-newsletter.vercel.app)
-Formulário de newsletter com validação em tempo real, feedback visual e design moderno. Foco em acessibilidade e experiência do usuário.
+💌 Formulário de newsletter com validação em tempo real, feedback visual e design moderno. Foco em acessibilidade e experiência do usuário.
 
 **Tech:** `React` `TypeScript` `Tailwind CSS` `Vite`  
 🌐 [Ver demo](https://alanborgesdev-newsletter.vercel.app) | 📂 [Código](https://github.com/alanborgesdev/formulario-newsletter)
@@ -92,7 +92,7 @@ Formulário de newsletter com validação em tempo real, feedback visual e desig
 ---
 
 ### 🐾 [Pet Shop Dev - Landing Page](https://alanborgesdev-petdev.vercel.app)
-Landing page responsiva e otimizada para SEO, criada para um pet shop fictício. Design limpo com foco em conversão e performance.
+🌟 Landing page responsiva e otimizada para SEO, criada para um pet shop fictício. Design limpo com foco em conversão e performance.
 
 **Tech:** `Next.js` `React` `Tailwind CSS`  
 🌐 [Ver demo](https://alanborgesdev-petdev.vercel.app) | 📂 [Código](https://github.com/alanborgesdev/petdev-landing-nextjs)
