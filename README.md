@@ -2,7 +2,7 @@
 
 # 👋 Olá, sou **Alan Borges!**
 
-### 💻 Full Stack Developer | Node.js • React • TypeScript  
+### 💻 Full Stack Developer | Laravel • Node.js • React • TypeScript  
 *Transformando ideias em soluções digitais completas.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alanborgesdev)
@@ -15,7 +15,7 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor Full Stack com foco em criar experiências web completas e funcionais. Minha jornada na programação começou com a curiosidade de entender o que acontecia por trás das telas — e hoje, transformo essa curiosidade em soluções completas: de APIs REST robustas a interfaces modernas e responsivas.
+Desenvolvedor Full Stack com foco em criar experiências web completas e funcionais. Minha jornada na programação começou com a curiosidade de entender o que acontecia por trás das telas e hoje, transformo essa curiosidade em soluções completas: de APIs REST robustas a interfaces modernas e responsivas.
 
 Acredito que código limpo não é apenas uma boa prática, mas uma forma de respeito com quem vai ler e manter o projeto no futuro. Sou movido por desafios que exigem pensar em arquitetura, performance e experiência do usuário ao mesmo tempo.
 
@@ -32,9 +32,13 @@ Acredito que código limpo não é apenas uma boa prática, mas uma forma de res
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n.io-FF6B6B?style=flat&logo=n8n&logoColor=white"/>
 </p>
@@ -43,15 +47,31 @@ Acredito que código limpo não é apenas uma boa prática, mas uma forma de res
 
 ## 📚 Atualmente Explorando
 
-- ⚛️ **Aprofundando em desenvolvimento Full Stack com React, Node.js e TypeScript**
+- ⚛️ **Aprofundando em desenvolvimento Full Stack com Laravel, React, Node.js e TypeScript**
+- 🔨 **Construindo sistemas CRUD robustos com Laravel e PHP**
 - ⚙️ **Criando e escalando APIs REST com Express e Prisma**
 - 🔄 **Automatizando e integrando fluxos com n8n.io**
-- 🗃️ **Dominando modelagem e consultas em PostgreSQL**
+- 🗃️ **Dominando modelagem e consultas em PostgreSQL e MySQL**
 - ☁️ **Explorando deploys eficientes e integração de sistemas completos**
 
 ---
 
 ## 💼 Projetos em Destaque
+
+### 📚 [Sistema CRUD de Cursos - Laravel](https://github.com/alanborgesdev/crud-cursos-laravel)
+🚀 Sistema completo de gerenciamento de cursos desenvolvido com Laravel 11. CRUD funcional com validações server-side customizadas, interface responsiva com Bootstrap 5 e arquitetura MVC seguindo as melhores práticas do framework.
+
+**Destaques:**
+- ✅ CRUD completo (Create, Read, Update, Delete)
+- ✅ Form Request Validation customizado
+- ✅ Interface responsiva e acessível
+- ✅ Feedback visual para usuário
+- ✅ Código limpo e bem documentado
+
+**Tech:** `Laravel 11` `PHP 8.2` `MySQL` `Bootstrap 5` `Eloquent ORM` `Blade`  
+📂 [Código](https://github.com/alanborgesdev/crud-cursos-laravel) | 📸 [Screenshots no README](https://github.com/alanborgesdev/crud-cursos-laravel#-capturas-de-tela)
+
+---
 
 ### 🎬 [BotFlix](https://alanborgesdev.github.io/botflix-n8n)
 🤖 Assistente inteligente que recomenda filmes personalizados com base no humor do usuário. Integração com TMDB API e automação via n8n.io para criar uma experiência interativa e divertida.
