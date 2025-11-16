@@ -69,7 +69,7 @@ Acredito que código limpo não é apenas uma boa prática, mas uma forma de res
 - ✅ Código limpo e bem documentado
 
 **Tech:** `Laravel 11` `PHP 8.2` `MySQL` `Bootstrap 5` `Eloquent ORM` `Blade`  
-📂 [Código](https://github.com/alanborgesdev/crud-cursos-laravel) | 📸 [Screenshots no README](https://github.com/alanborgesdev/crud-cursos-laravel#-capturas-de-tela)
+📂 [Código](https://github.com/alanborgesdev/crud-laravel)
 
 ---
 
