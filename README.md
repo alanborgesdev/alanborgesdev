@@ -58,7 +58,7 @@ Acredito que código limpo não é apenas uma boa prática, mas uma forma de res
 
 ## 💼 Projetos em Destaque
 
-### 📚 [Sistema CRUD de Cursos - Laravel](https://github.com/alanborgesdev/crud-cursos-laravel)
+### 📚 [Sistema CRUD de Cursos - Laravel](https://github.com/alanborgesdev/crud-laravel)
 🚀 Sistema completo de gerenciamento de cursos desenvolvido com Laravel 11. CRUD funcional com validações server-side customizadas, interface responsiva com Bootstrap 5 e arquitetura MVC seguindo as melhores práticas do framework.
 
 **Destaques:**
