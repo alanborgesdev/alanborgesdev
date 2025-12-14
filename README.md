@@ -83,7 +83,7 @@ Acredito que código limpo não é apenas uma boa prática, mas uma forma de res
 ---
 
 ### ⚡ [Pokédex React](https://alanborgesdev-pokedex.vercel.app)
-🎯 Aplicação interativa que consome a PokéAPI, com busca avançada, tema dark/light dinâmico e animações suaves. Exploração de Context API para gerenciamento de estado global.
+🎯 Aplicação React com tipagem forte em TypeScript, que consome a PokéAPI para exibir Pokémon com busca avançada e tema dinâmico. Usando Context API para gerenciamento de estado e animações suaves com CSS.
 
 **Tech:** `React` `Styled Components` `Context API` `PokéAPI`  
 🌐 [Ver demo](https://alanborgesdev-pokedex.vercel.app) | 📂 [Código](https://github.com/alanborgesdev/pokedex)
