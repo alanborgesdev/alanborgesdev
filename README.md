@@ -2,7 +2,8 @@
 
 # 👋 Olá, sou **Alan Borges!**
 
-### 💻 Front-end Developer | React • TypeScript • JavaScript • Tailwind CSS
+### 💻 Front-end Developer | React • TypeScript • Tailwind CSS | Consumo de APIs REST
+
 *Transformando ideias em soluções digitais completas.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alanborgesdev)
@@ -15,13 +16,13 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor Full Stack com foco em criar experiências web completas e funcionais. Minha jornada na programação começou com a curiosidade de entender o que acontecia por trás das telas e hoje, transformo essa curiosidade em soluções completas: de APIs REST robustas a interfaces modernas e responsivas.
+Desenvolvedor Front-end, focado em criar experiências web completas e funcionais. Minha jornada na programação começou com a curiosidade de entender o que acontecia por trás das telas e hoje, transformo essa curiosidade em soluções completas, atuando no desenvolvimento de interfaces modernas e no consumo de APIs REST bem estruturadas.
 
 Acredito que código limpo não é apenas uma boa prática, mas uma forma de respeito com quem vai ler e manter o projeto no futuro. Sou movido por desafios que exigem pensar em arquitetura, performance e experiência do usuário ao mesmo tempo.
 
 **Além do código:** Valorizo a comunicação clara em equipe, gosto de documentar processos e acredito que feedbacks construtivos são essenciais para crescimento coletivo. Tenho facilidade para trabalhar de forma colaborativa e adaptar-me rapidamente a novos contextos e tecnologias.
 
-**Momento atual:** Em busca da minha primeira oportunidade profissional para contribuir com soluções eficientes, aprender com times de alta performance e evoluir continuamente como desenvolvedor.
+**Momento atual:** Em busca da minha primeira oportunidade formal como Front-end Developer, onde eu possa contribuir com soluções eficientes, aprender com times de alta performance e evoluir continuamente como desenvolvedor.
 
 ---
 
@@ -40,13 +41,10 @@ Acredito que código limpo não é apenas uma boa prática, mas uma forma de res
 
 ## 📚 Atualmente Explorando
 
-- ⚛️ **Aprofundando em desenvolvimento Full Stack com Laravel, React, Node.js e TypeScript**
-- 🔨 **Construindo sistemas CRUD robustos com Laravel e PHP**
-- ⚙️ **Criando e escalando APIs REST com Express e Prisma**
-- 🔄 **Automatizando e integrando fluxos com n8n.io**
-- 🗃️ **Dominando modelagem e consultas em PostgreSQL e MySQL**
-- ☁️ **Explorando deploys eficientes e integração de sistemas completos**
-
+- ⚛️ **Aprofundando em desenvolvimento Front-end com React, TypeScript e boas práticas de UI**
+- 🔨 **Construindo sistemas CRUD para consolidar fundamentos Full Stack**
+- ⚙️ **Criando e consumindo APIs REST com Node.js e Prisma**
+  
 ---
 
 ## 💼 Projetos em Destaque
@@ -83,7 +81,7 @@ Acredito que código limpo não é apenas uma boa prática, mas uma forma de res
 ---
 
 ### ⚡ [Pokédex React](https://alanborgesdev-pokedex.vercel.app)
-🎯 Aplicação React com tipagem forte em TypeScript, que consome a PokéAPI para exibir Pokémon com busca avançada e tema dinâmico. Usando Context API para gerenciamento de estado e animações suaves com CSS.
+🎯 Aplicação Front-end desenvolvida em React, que consome a PokéAPI para exibir Pokémon, com busca avançada, tema dinâmico e foco em componentização, performance e experiência do usuário. Utiliza Context API para gerenciamento de estado e animações suaves com CSS.
 
 **Tech:** `React` `Styled Components` `Context API` `PokéAPI`  
 🌐 [Ver demo](https://alanborgesdev-pokedex.vercel.app) | 📂 [Código](https://github.com/alanborgesdev/pokedex)
