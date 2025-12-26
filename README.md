@@ -84,14 +84,6 @@ API RESTful completa para gerenciamento de filmes e usuários, com autenticaçã
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanborgesdev&layout=compact&theme=dark&langs_count=6" />
-</div>
-
----
-
 ## 📬 Vamos conversar?
 
 Estou disponível para oportunidades como **Desenvolvedor Front-end Júnior** e aberto a conversar sobre projetos e tecnologia.
