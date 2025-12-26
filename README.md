@@ -49,37 +49,6 @@ Acredito que código limpo não é apenas uma boa prática, mas uma forma de res
 
 ## 💼 Projetos em Destaque
 
-### 📚 [Sistema CRUD de Cursos - Laravel](https://github.com/alanborgesdev/crud-laravel)
-🚀 Sistema completo de gerenciamento de cursos desenvolvido com Laravel 11. CRUD funcional com validações server-side customizadas, interface responsiva com Bootstrap 5 e arquitetura MVC seguindo as melhores práticas do framework.
-
-**Destaques:**
-- ✅ CRUD completo (Create, Read, Update, Delete)
-- ✅ Form Request Validation customizado
-- ✅ Interface responsiva e acessível
-- ✅ Feedback visual para usuário
-- ✅ Código limpo e bem documentado
-
-**Tech:** `Laravel 11` `PHP 8.2` `MySQL` `Bootstrap 5` `Eloquent ORM` `Blade`  
-📂 [Código](https://github.com/alanborgesdev/crud-laravel)
-
----
-
-### 🎬 [BotFlix](https://alanborgesdev.github.io/botflix-n8n)
-🤖 Assistente inteligente que recomenda filmes personalizados com base no humor do usuário. Integração com TMDB API e automação via n8n.io para criar uma experiência interativa e divertida.
-
-**Tech:** `HTML` `CSS` `JavaScript` `n8n.io` `TMDB API`  
-🌐 [Ver demo](https://alanborgesdev.github.io/botflix-n8n) | 📂 [Código](https://github.com/alanborgesdev/botflix-n8n)
-
----
-
-### 🎥 [MovieFlix API](https://github.com/alanborgesdev/movieflix-api)
-🚀 API RESTful completa para gerenciamento de filmes com autenticação, validação de dados e documentação automática via Swagger. Containerizada com Docker para facilitar deploy e desenvolvimento.
-
-**Tech:** `Node.js` `TypeScript` `Express` `Prisma` `PostgreSQL` `Docker` `Swagger`  
-📂 [Código](https://github.com/alanborgesdev/movieflix-api)
-
----
-
 ### ⚡ [Pokédex React](https://alanborgesdev-pokedex.vercel.app)
 🎯 Aplicação Front-end desenvolvida em React, que consome a PokéAPI para exibir Pokémon, com busca avançada, tema dinâmico e foco em componentização, performance e experiência do usuário. Utiliza Context API para gerenciamento de estado e animações suaves com CSS.
 
@@ -101,6 +70,37 @@ Acredito que código limpo não é apenas uma boa prática, mas uma forma de res
 
 **Tech:** `Next.js` `React` `Tailwind CSS`  
 🌐 [Ver demo](https://alanborgesdev-petdev.vercel.app) | 📂 [Código](https://github.com/alanborgesdev/petdev-landing-nextjs)
+
+---
+
+### 🎬 [BotFlix](https://alanborgesdev.github.io/botflix-n8n)
+🤖 Assistente inteligente que recomenda filmes personalizados com base no humor do usuário. Integração com TMDB API e automação via n8n.io para criar uma experiência interativa e divertida.
+
+**Tech:** `HTML` `CSS` `JavaScript` `n8n.io` `TMDB API`  
+🌐 [Ver demo](https://alanborgesdev.github.io/botflix-n8n) | 📂 [Código](https://github.com/alanborgesdev/botflix-n8n)
+
+---
+
+### 🎥 [MovieFlix API](https://github.com/alanborgesdev/movieflix-api)
+🚀 API RESTful completa para gerenciamento de filmes com autenticação, validação de dados e documentação automática via Swagger. Containerizada com Docker para facilitar deploy e desenvolvimento.
+
+**Tech:** `Node.js` `TypeScript` `Express` `Prisma` `PostgreSQL` `Docker` `Swagger`  
+📂 [Código](https://github.com/alanborgesdev/movieflix-api)
+
+---
+
+### 📚 [Sistema CRUD de Cursos - Laravel](https://github.com/alanborgesdev/crud-laravel)
+🚀 Sistema completo de gerenciamento de cursos desenvolvido com Laravel 11. CRUD funcional com validações server-side customizadas, interface responsiva com Bootstrap 5 e arquitetura MVC seguindo as melhores práticas do framework.
+
+**Destaques:**
+- ✅ CRUD completo (Create, Read, Update, Delete)
+- ✅ Form Request Validation customizado
+- ✅ Interface responsiva e acessível
+- ✅ Feedback visual para usuário
+- ✅ Código limpo e bem documentado
+
+**Tech:** `Laravel 11` `PHP 8.2` `MySQL` `Bootstrap 5` `Eloquent ORM` `Blade`  
+📂 [Código](https://github.com/alanborgesdev/crud-laravel)
 
 ---
 
