@@ -28,14 +28,27 @@ Antes de migrar para tecnologia, construí uma trajetória de anos resolvendo pr
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
+### Bibliotecas
+![TanStack Router](https://img.shields.io/badge/TanStack_Router-FF4154?style=flat&logo=reactquery&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
+
 ### Ferramentas e Outros
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-
 ---
 
 ## 💼 Projetos em Destaque
+
+### 👟 [SyntaxWear — E-commerce de Calçados](https://syntax-wear-app-rose.vercel.app)
+Vitrine de e-commerce de calçados com catálogo por categoria, detalhes de produto, carrinho persistido no navegador, consulta de endereço e estimativa de frete por CEP (API ViaCEP) e telas de login e cadastro com validação de formulário.
+
+**Stack:** `React 19` `TypeScript` `Vite` `TanStack Router` `Tailwind CSS` `React Hook Form` `Zod`
+
+🔗 [Ver demo](https://syntax-wear-app-rose.vercel.app) • [Repositório](https://github.com/alanborgesdev/syntax-wear-app)
+
+---
 
 ### 🐾 [Pet Shop Dev](https://alanborgesdev-petdev.vercel.app)
 Landing page responsiva para pet shop, desenvolvida com Next.js para otimização de SEO e performance, com animações suaves e abordagem mobile-first.
