@@ -64,15 +64,6 @@ Landing page cinematográfica desenvolvida como projeto de estudo, com hero em v
 
 ---
 
-### 🎥 [BotFlix](https://alanborgesdev.github.io/botflix-n8n/)
-Assistente web que recomenda filmes personalizados a partir de uma descrição livre do usuário. Integra um workflow em n8n com IA generativa (Google Gemini) e a API do TMDB.
-
-**Stack:** `JavaScript` `n8n` `TMDB API` `Google Gemini`
-
-🔗 [Ver demo](https://alanborgesdev.github.io/botflix-n8n/) • [Repositório](https://github.com/alanborgesdev/botflix-n8n)
-
----
-
 ## 📬 Vamos conversar?
 
 Estou disponível para oportunidades como **Desenvolvedor Front-end**, focado em resolver problemas reais através de código de qualidade.
